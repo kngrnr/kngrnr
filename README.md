@@ -14,10 +14,10 @@ I'm a passionate mobile developer from the Philippines 🇵🇭
 
 ### Languages/frameworks I'm good at
 
-<a href="https://flutter.dev"><img alt="Bash" title="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" height="35"></a></code>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://dart.dev"><img alt="Bash" title="Dart" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="35"></a></code>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://developer.apple.com/swift/"><img alt="Swift iOS" title="Bash" src="https://developer.apple.com/swift/images/swift-og.png" height="35"></a></code>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://git-scm.com"><img alt="Bash" title="Bash" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="35"></a></code>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://flutter.dev"><img alt="Flutter" title="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" height="35"></a></code>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://dart.dev"><img alt="Dart" title="Dart" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="35"></a></code>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://developer.apple.com/swift/"><img alt="Swift iOS" title="Swift iOS" src="https://developer.apple.com/swift/images/swift-og.png" height="35"></a></code>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://git-scm.com"><img alt="Git" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="35"></a></code>&nbsp;&nbsp;&nbsp;&nbsp; 
     
 
 *** 
