@@ -3,7 +3,7 @@
 I'm a passionate mobile developer from the Philippines 🇵🇭
 
 **About me**
-- <img align="left" alt="King's currentwork" width="19" src="https://scontent.fmnl4-2.fna.fbcdn.net/v/t39.30808-6/301129160_452697070211179_4507412317997998260_n.png?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=jCYFdipzW60AX9eJWvC&_nc_ht=scontent.fmnl4-2.fna&oh=00_AfDtm9SYSGWb8jdfVPsA2QCIMHW3aZbAeNHJIjIu3ZYGuA&oe=646E63FD" /> &nbsp;Currently a Mobile Developer at [Flexisource IT ](https://flexisourceit.com.au)
+- <img align="left" alt="King's currentwork" width="19" src="https://img.shgstatic.com/clutchco-static/image/scale/50x50/s3fs-public/logos/flexisource_it.png" /> &nbsp;Currently a Mobile Developer at [Flexisource IT ](https://flexisourceit.com.au)
 
 - <img align="left" alt="King's LinkedIN" width="19" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> &nbsp;Feel free to ping me on [LinkedIn](https://linkedin.com/in/king-reiner-a-360717104)
 
